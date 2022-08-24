@@ -9,3 +9,4 @@ Start the challenge
     Open Available Browser    https://robocorp.com/
     Capture Page Screenshot
     Close All Browsers
+
