@@ -8,4 +8,5 @@ Library           RPA.Browser.Selenium
 Start the challenge
     Open Available Browser    https://robocorp.com/
     Capture Page Screenshot
+    Log    "foobar"
     Close All Browsers
